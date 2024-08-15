@@ -1,0 +1,4 @@
+taxi-request: "&e&l[Taxi]&r &eYour request has been sent to taxi."
+taxi-receive: "&e&l[Taxi]&r &ePlayer %PLAYER% requests a taxi! use [/wanted find (player)] to find the player."
+medic-request: "&c&l[Medic]&r &cYour request has been sent to medic."
+medic-receive: "&c&l[Medic]&r &cPlayer %PLAYER% requests a medic! use [/wanted find (player)] to find the player."

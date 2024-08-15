@@ -1,0 +1,14 @@
+name: service_request
+version: '0.4'
+main: org.peakim.service_request.Service_request
+api-version: '1.16'
+commands:
+  servicerequest-reload:
+    description: Reload ServiceRequest
+    usage: /<command>
+  medic:
+    description: request medic
+    usage: /<command>
+  taxi:
+    description: request taxi
+    usage: /<command>
